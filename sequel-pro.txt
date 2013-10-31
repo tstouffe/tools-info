@@ -1,0 +1,4 @@
+Sequel Pro is a management tool for MySql database that works on Mac OS X.
+
+http://www.sequelpro.com/
+
