@@ -1,0 +1,3 @@
+Geo magic studio is a good program for converting 3D scanned data into 3D meshes and polygons. It also has a good toolset for resolving mesh issues for 3D printing.
+
+http://www.geomagic.com/en/products/studio/overview/
